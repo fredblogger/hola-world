@@ -1,3 +1,4 @@
 # hola-world
 a spanish version, in english
-this is the first update to this repo
+ the first update to this repository that I have created
+second update
