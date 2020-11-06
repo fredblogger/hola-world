@@ -1,0 +1,17 @@
+body {
+    background-color: whitesmoke;
+}
+h1 {
+    color: blue;
+}
+img {
+    width: 30%;
+}
+.important {
+    color: red;
+}
+.header{
+    border-width: 5px;
+    border-color: blue; 
+    border-style: solid; 
+}
